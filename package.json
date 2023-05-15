@@ -1,0 +1,8 @@
+{
+  "name": "rome-4479",
+  "version": "0.0.0",
+  "description": "Minimum reproducible example",
+  "dependencies": {
+    "rome": "12.1.0"
+  }
+}
