@@ -7,8 +7,8 @@
     "enabled": true,
     "rules": {
       "recommended": true,
-      "nursery": {
-        "noAccumulatingSpread": "error"
+      "complexity": {
+        "noUselessSwitchCase": "off"
       }
     }
   }
